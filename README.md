@@ -7,7 +7,7 @@ Conceptual study of programming language syntax, semantics and implementation. C
 covers language definition structure, data types and structures, control structures and data flow,
 run-time consideration, and interpretative languages.
 
--Each Project contains description PDF in its own folder.
+- Each Project contains description PDF in its own folder.
 
 
  
