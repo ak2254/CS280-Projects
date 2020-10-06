@@ -1,4 +1,4 @@
-// programming assigment 0 - CS280 - one solution
+// programming assigment 0 - CS280
 //CS280 Spring 2019
 //Copyrighted
 //Professor Gerard Ryan
